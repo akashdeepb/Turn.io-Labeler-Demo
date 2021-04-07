@@ -1,0 +1,15 @@
+{
+  "name": "turnlabeler",
+  "version": "1.0.0",
+  "description": "App for Labeling Messages on Turn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "akashdeepb <akashdeep20nov@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
